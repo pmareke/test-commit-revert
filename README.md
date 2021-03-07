@@ -10,8 +10,8 @@
 
 ## Requirements
 
-These scripts are ready to run in MacOS, because of that you need to install *Homebrew* and *watchexec*
+These scripts are ready to run in MacOS, because of that you need to install **Homebrew** and **watchexec**
 
 ## How to use it
 
-You have to copy the files inside you *Java* project with *Maven* and run the *tch.sh* script 
+You have to copy the files inside you *Java* project with **Maven** and run the **watch.sh** script 
